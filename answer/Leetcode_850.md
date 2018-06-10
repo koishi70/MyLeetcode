@@ -1,5 +1,4 @@
-# 
-Leetcode 850 矩形面积 II
+# Leetcode 850 矩形面积 II
 题目描述：
 
 我们给出了一个（轴对齐的）矩形列表 rectangles 。 对于 rectangle[i] = [x1, y1, x2, y2]，其中（x1，y1）是矩形 i 左下角的坐标，（x2，y2）是该矩形右上角的坐标。
